@@ -35,17 +35,8 @@ var csvStream = csv()
 			     message: html,
 			      altText: 'plain text'
 			    }, function (err, data, res) {
-			        
-			     // ...
 			    });
 			})
-		    // ... or build a message from scratch yourself and send it.
-		    // client.sendRawEmail({
-		    //     from: 'somewhereOverTheR@inbow.com'
-		    //  , rawMessage: 'plain text'
-		    // }, function (err, data, res) {
-		    //  // ...
-		    // });
 	 	}
 
 	}
