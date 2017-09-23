@@ -1,0 +1,25 @@
+{
+  "name": "node-ses-mailer-csv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "commander": "^2.9.0",
+    "cookie-parser": "^1.4.1",
+    "csvtojson": "^1.1.7",
+    "ejs": "^2.5.7",
+    "express": "^4.13.4",
+    "node-fetch": "^1.7.3",
+    "node-ses": "^2.0.5",
+    "nodemailer": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {},
+  "author": "",
+  "license": "ISC"
+}
