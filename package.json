@@ -1,7 +1,7 @@
 {
   "name": "node-ses-mailer-csv",
   "version": "1.0.0",
-  "description": "",
+  "description": "This project aims at sending e-mails to multiple people with help of amazon-ses",
   "main": "server.js",
   "dependencies": {
     "body-parser": "^1.15.0",
